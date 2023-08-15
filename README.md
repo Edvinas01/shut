@@ -1,6 +1,6 @@
 # shut
 
-Script to shut the damn PC.
+Need a dumb script to shut the PC since you're too lazy to push the button? You're in the right place.
 
 ## Setup
 
